@@ -37,7 +37,7 @@ moviepy~=2.1.1          # Video processing
 
 1. **Clone the repository:**
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/Yashparmar1125/Face_Emotion_Detector.git
    cd Emotion_Detection
    ```
 
@@ -108,5 +108,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/Yashparmar1125">Yash Parmar</a></sub>
 </div>
