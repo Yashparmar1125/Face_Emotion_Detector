@@ -1,0 +1,296 @@
+Downloaded data for RELIANCE.NS
+Downloaded data for ITI.NS
+Downloaded data for HDFCBANK.NS
+Downloaded data for TCS.NS
+Downloaded data for BHARTIARTL.NS
+Error processing RELIANCE.NS: 'High'
+Error processing BHARTIARTL.NS: 'High'
+Error processing TCS.NS: 'High'
+Error processing HDFCBANK.NS: 'High'
+Error processing ITI.NS: 'High'
+Downloaded data for NTPC.NS
+Downloaded data for SAIL.NS
+Downloaded data for SBIN.NS
+Downloaded data for NHPC.NS
+Error processing SAIL.NS: 'High'
+Error processing SBIN.NS: 'High'
+Error processing NTPC.NS: 'High'
+Error processing NHPC.NS: 'High'
+Downloaded data for POWERGRID.NS
+Downloaded data for BEL.NS
+Downloaded data for SJVN.NS
+Downloaded data for BHEL.NS
+Downloaded data for IDEA.NS
+Error processing BEL.NS: 'High'
+Error processing POWERGRID.NS: 'High'
+Error processing SJVN.NS: 'High'
+Error processing BHEL.NS: 'High'
+Error processing IDEA.NS: 'High'
+Downloaded data for TATASTEEL.NS
+Downloaded data for TITAGARH.NS
+Downloaded data for SUZLON.NS
+Downloaded data for IOC.NS
+Downloaded data for ASHOKLEY.NS
+Error processing IOC.NS: 'High'
+Error processing TITAGARH.NS: 'High'
+Error processing TATASTEEL.NS: 'High'
+Error processing ASHOKLEY.NS: 'High'
+Error processing SUZLON.NS: 'High'
+Downloaded data for RKFORGE.NS
+Error processing RKFORGE.NS: 'High'
+Downloaded data for TCS.NS
+.NS
+Downloaded data for HDFCBANK.NS
+Downloaded data for ITI.NS
+Downloaded data for BHARTIARTL.NS
+Error processing TCS.NS: 'High'
+Error processing BHARTIARTL.NS: 'High'
+Error processing ITI.NS: 'High'
+Error processing HDFCBANK.NS: 'High'
+Downloaded data for SAIL.NS
+Downloaded data for SJVN.NS
+Downloaded data for NTPC.NS
+Downloaded data for NHPC.NS
+Downloaded data for SBIN.NS
+Error processing SJVN.NS: 'High'
+Error processing SAIL.NS: 'High'
+Error processing NHPC.NS: 'High'
+Error processing NTPC.NS: 'High'
+Error processing SBIN.NS: 'High'
+Downloaded data for BHEL.NS
+Downloaded data for BEL.NS
+Downloaded data for IDEA.NS
+Downloaded data for POWERGRID.NS
+Downloaded data for ASHOKLEY.NS
+Error processing IDEA.NS: 'High'
+Error processing BHEL.NS: 'High'
+Error processing BEL.NS: 'High'
+Error processing ASHOKLEY.NS: 'High'
+Error processing POWERGRID.NS: 'High'
+Downloaded data for RKFORGE.NS
+Downloaded data for TITAGARH.NS
+Downloaded data for TATASTEEL.NS
+Downloaded data for SUZLON.NS
+Downloaded data for IOC.NS
+Error processing RKFORGE.NS: 'High'
+Error processing TATASTEEL.NS: 'High'
+Error processing TITAGARH.NS: 'High'
+Error processing SUZLON.NS: 'High'
+Error processing IOC.NS: 'High'
+Downloaded data for HDFCBANK.NS
+Downloaded data for ITI.NS
+Downloaded data for RELIANCE.NS
+Downloaded data for TCS.NS
+Downloaded data for BHARTIARTL.NS
+Error processing HDFCBANK.NS: sequence item 0: expected str instance, tuple found
+Error processing RELIANCE.NS: sequence item 0: expected str instance, tuple found
+Error processing TCS.NS: sequence item 0: expected str instance, tuple found
+Error processing ITI.NS: sequence item 0: expected str instance, tuple found
+Error processing BHARTIARTL.NS: sequence item 0: expected str instance, tuple found
+Downloaded data for SAIL.NS
+Downloaded data for NTPC.NS
+Error processing SAIL.NS: sequence item 0: expected str instance, tuple found
+Downloaded data for NHPC.NS
+Downloaded data for SJVN.NS
+Downloaded data for SBIN.NS
+Error processing NHPC.NS: sequence item 0: expected str instance, tuple found
+Error processing NTPC.NS: sequence item 0: expected str instance, tuple found
+Error processing SBIN.NS: sequence item 0: expected str instance, tuple found
+Error processing SJVN.NS: sequence item 0: expected str instance, tuple found
+Downloaded data for BHEL.NS
+Downloaded data for ASHOKLEY.NS
+Downloaded data for POWERGRID.NS
+Error processing BHEL.NS: sequence item 0: expected str instance, tuple found
+Downloaded data for IDEA.NS
+Downloaded data for BEL.NS
+Error processing ASHOKLEY.NS: sequence item 0: expected str instance, tuple found
+Error processing IDEA.NS: sequence item 0: expected str instance, tuple found
+Error processing POWERGRID.NS: sequence item 0: expected str instance, tuple found
+Error processing BEL.NS: sequence item 0: expected str instance, tuple found
+Downloaded data for TITAGARH.NS
+Error processing TITAGARH.NS: sequence item 0: expected str instance, tuple found
+Downloaded data for TATASTEEL.NS
+Downloaded data for SUZLON.NS
+Downloaded data for RKFORGE.NS
+Downloaded data for IOC.NS
+Error processing TATASTEEL.NS: sequence item 0: expected str instance, tuple found
+Error processing RKFORGE.NS: sequence item 0: expected str instance, tuple found
+Error processing IOC.NS: sequence item 0: expected str instance, tuple found
+Downloaded data for BHARTIARTL.NS
+Downloaded data for ITI.NS
+Downloaded data for TCS.NS
+Columns in ITI.NS data: ('Close', 'ITI.NS'), ('High', 'ITI.NS'), ('Low', 'ITI.NS'), ('Open', 'ITI.NS'), ('Volume', 'ITI.NS')
+Downloaded data for HDFCBANK.NS
+Downloaded data for RELIANCE.NS
+Columns in BHARTIARTL.NS data: ('Close', 'ITI.NS'), ('High', 'ITI.NS'), ('Low', 'ITI.NS'), ('Open', 'ITI.NS'), ('Volume', 'ITI.NS')
+Columns in TCS.NS data: ('Close', 'ITI.NS'), ('High', 'ITI.NS'), ('Low', 'ITI.NS'), ('Open', 'ITI.NS'), ('Volume', 'ITI.NS')
+Columns in HDFCBANK.NS data: ('Close', 'ITI.NS'), ('High', 'ITI.NS'), ('Low', 'ITI.NS'), ('Open', 'ITI.NS'), ('Volume', 'ITI.NS')
+Columns in RELIANCE.NS data: ('Close', 'ITI.NS'), ('High', 'ITI.NS'), ('Low', 'ITI.NS'), ('Open', 'ITI.NS'), ('Volume', 'ITI.NS')
+Error processing TCS.NS: 'High'
+Error processing HDFCBANK.NS: 'High'
+Error processing BHARTIARTL.NS: 'High'
+Error processing ITI.NS: 'High'
+Error processing RELIANCE.NS: 'High'
+Downloaded data for SBIN.NS
+Downloaded data for NTPC.NS
+Columns in SBIN.NS data: ('Close', 'TCS.NS'), ('High', 'TCS.NS'), ('Low', 'TCS.NS'), ('Open', 'TCS.NS'), ('Volume', 'TCS.NS')
+Downloaded data for SAIL.NS
+Downloaded data for SJVN.NS
+Downloaded data for NHPC.NS
+Columns in SJVN.NS data: ('Close', 'TCS.NS'), ('High', 'TCS.NS'), ('Low', 'TCS.NS'), ('Open', 'TCS.NS'), ('Volume', 'TCS.NS')
+Columns in NTPC.NS data: ('Close', 'TCS.NS'), ('High', 'TCS.NS'), ('Low', 'TCS.NS'), ('Open', 'TCS.NS'), ('Volume', 'TCS.NS')
+Columns in SAIL.NS data: ('Close', 'TCS.NS'), ('High', 'TCS.NS'), ('Low', 'TCS.NS'), ('Open', 'TCS.NS'), ('Volume', 'TCS.NS')
+Columns in NHPC.NS data: ('Close', 'TCS.NS'), ('High', 'TCS.NS'), ('Low', 'TCS.NS'), ('Open', 'TCS.NS'), ('Volume', 'TCS.NS')
+Error processing NHPC.NS: 'High'
+Error processing SBIN.NS: 'High'
+Error processing SAIL.NS: 'High'
+Error processing SJVN.NS: 'High'
+Error processing NTPC.NS: 'High'
+Downloaded data for ASHOKLEY.NS
+Downloaded data for IDEA.NS
+Downloaded data for POWERGRID.NS
+Downloaded data for BEL.NS
+Downloaded data for BHEL.NS
+Columns in ASHOKLEY.NS data: ('Close', 'NHPC.NS'), ('Close', 'SJVN.NS'), ('High', 'NHPC.NS'), ('High', 'SJVN.NS'), ('Low', 'NHPC.NS'), ('Low', 'SJVN.NS'), ('Open', 'NHPC.NS'), ('Open', 'SJVN.NS'), ('Volume', 'NHPC.NS'), ('Volume', 'SJVN.NS')
+Columns in POWERGRID.NS data: ('Close', 'NHPC.NS'), ('Close', 'SJVN.NS'), ('High', 'NHPC.NS'), ('High', 'SJVN.NS'), ('Low', 'NHPC.NS'), ('Low', 'SJVN.NS'), ('Open', 'NHPC.NS'), ('Open', 'SJVN.NS'), ('Volume', 'NHPC.NS'), ('Volume', 'SJVN.NS')
+Columns in BEL.NS data: ('Close', 'NHPC.NS'), ('Close', 'SJVN.NS'), ('High', 'NHPC.NS'), ('High', 'SJVN.NS'), ('Low', 'NHPC.NS'), ('Low', 'SJVN.NS'), ('Open', 'NHPC.NS'), ('Open', 'SJVN.NS'), ('Volume', 'NHPC.NS'), ('Volume', 'SJVN.NS')
+Columns in IDEA.NS data: ('Close', 'NHPC.NS'), ('Close', 'SJVN.NS'), ('High', 'NHPC.NS'), ('High', 'SJVN.NS'), ('Low', 'NHPC.NS'), ('Low', 'SJVN.NS'), ('Open', 'NHPC.NS'), ('Open', 'SJVN.NS'), ('Volume', 'NHPC.NS'), ('Volume', 'SJVN.NS')
+Columns in BHEL.NS data: ('Close', 'NHPC.NS'), ('Close', 'SJVN.NS'), ('High', 'NHPC.NS'), ('High', 'SJVN.NS'), ('Low', 'NHPC.NS'), ('Low', 'SJVN.NS'), ('Open', 'NHPC.NS'), ('Open', 'SJVN.NS'), ('Volume', 'NHPC.NS'), ('Volume', 'SJVN.NS')
+Error processing BEL.NS: 'High'
+Error processing IDEA.NS: 'High'
+Error processing POWERGRID.NS: 'High'
+Error processing ASHOKLEY.NS: 'High'
+Error processing BHEL.NS: 'High'
+Downloaded data for IOC.NS
+Downloaded data for TATASTEEL.NS
+Downloaded data for RKFORGE.NS
+Downloaded data for TITAGARH.NS
+Columns in RKFORGE.NS data: ('Close', 'POWERGRID.NS'), ('Close', 'SAIL.NS'), ('High', 'POWERGRID.NS'), ('High', 'SAIL.NS'), ('Low', 'POWERGRID.NS'), ('Low', 'SAIL.NS'), ('Open', 'POWERGRID.NS'), ('Open', 'SAIL.NS'), ('Volume', 'POWERGRID.NS'), ('Volume', 'SAIL.NS')
+Downloaded data for SUZLON.NS
+Columns in TITAGARH.NS data: ('Close', 'POWERGRID.NS'), ('Close', 'SAIL.NS'), ('High', 'POWERGRID.NS'), ('High', 'SAIL.NS'), ('Low', 'POWERGRID.NS'), ('Low', 'SAIL.NS'), ('Open', 'POWERGRID.NS'), ('Open', 'SAIL.NS'), ('Volume', 'POWERGRID.NS'), ('Volume', 'SAIL.NS')
+Columns in TATASTEEL.NS data: ('Close', 'POWERGRID.NS'), ('Close', 'SAIL.NS'), ('High', 'POWERGRID.NS'), ('High', 'SAIL.NS'), ('Low', 'POWERGRID.NS'), ('Low', 'SAIL.NS'), ('Open', 'POWERGRID.NS'), ('Open', 'SAIL.NS'), ('Volume', 'POWERGRID.NS'), ('Volume', 'SAIL.NS')
+Columns in IOC.NS data: ('Close', 'POWERGRID.NS'), ('Close', 'SAIL.NS'), ('High', 'POWERGRID.NS'), ('High', 'SAIL.NS'), ('Low', 'POWERGRID.NS'), ('Low', 'SAIL.NS'), ('Open', 'POWERGRID.NS'), ('Open', 'SAIL.NS'), ('Volume', 'POWERGRID.NS'), ('Volume', 'SAIL.NS')
+Columns in SUZLON.NS data: ('Close', 'POWERGRID.NS'), ('Close', 'SAIL.NS'), ('High', 'POWERGRID.NS'), ('High', 'SAIL.NS'), ('Low', 'POWERGRID.NS'), ('Low', 'SAIL.NS'), ('Open', 'POWERGRID.NS'), ('Open', 'SAIL.NS'), ('Volume', 'POWERGRID.NS'), ('Volume', 'SAIL.NS')
+Error processing SUZLON.NS: 'High'
+Error processing TITAGARH.NS: 'High'
+Error processing RKFORGE.NS: 'High'
+Error processing IOC.NS: 'High'
+Error processing TATASTEEL.NS: 'High'
+Downloaded data for HDFCBANK.NS
+Columns in HDFCBANK.NS data: Close, High, Low, Open, Volume
+Downloaded data for TCS.NS
+Downloaded data for BHARTIARTL.NS
+Downloaded data for ITI.NS
+Downloaded data for RELIANCE.NS
+Columns in TCS.NS data: Close, High, Low, Open, Volume
+Columns in BHARTIARTL.NS data: Close, High, Low, Open, Volume
+Columns in ITI.NS data: Close, High, Low, Open, Volume
+Columns in RELIANCE.NS data: Close, High, Low, Open, Volume
+Error processing TCS.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing HDFCBANK.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing ITI.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing BHARTIARTL.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing RELIANCE.NS: could not convert string to float: 'MACD_12_26_9'
+Downloaded data for SJVN.NS
+Columns in SJVN.NS data: Close, High, Low, Open, Volume
+Downloaded data for SBIN.NS
+Downloaded data for SAIL.NS
+Downloaded data for NHPC.NS
+Columns in SBIN.NS data: Close, High, Low, Open, Volume
+Columns in SAIL.NS data: Close, High, Low, Open, Volume
+Downloaded data for NTPC.NS
+Columns in NHPC.NS data: Close, High, Low, Open, Volume
+Columns in NTPC.NS data: Close, High, Low, Open, Volume
+Error processing SBIN.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing SJVN.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing SAIL.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing NHPC.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing NTPC.NS: could not convert string to float: 'MACD_12_26_9'
+Downloaded data for BHEL.NS
+Columns in BHEL.NS data: Close, High, Low, Open, Volume
+Downloaded data for ASHOKLEY.NS
+Downloaded data for BEL.NS
+Downloaded data for IDEA.NS
+Columns in ASHOKLEY.NS data: Close, High, Low, Open, Volume
+Downloaded data for POWERGRID.NS
+Columns in IDEA.NS data: Close, High, Low, Open, Volume
+Columns in POWERGRID.NS data: Close, High, Low, Open, Volume
+Columns in BEL.NS data: Close, High, Low, Open, Volume
+Error processing POWERGRID.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing ASHOKLEY.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing BHEL.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing IDEA.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing BEL.NS: could not convert string to float: 'MACD_12_26_9'
+Downloaded data for TATASTEEL.NS
+Downloaded data for RKFORGE.NS
+Columns in TATASTEEL.NS data: Close, High, Low, Open, Volume
+Columns in RKFORGE.NS data: Close, High, Low, Open, Volume
+Downloaded data for SUZLON.NS
+Downloaded data for IOC.NS
+Columns in SUZLON.NS data: Close, High, Low, Open, Volume
+Downloaded data for TITAGARH.NS
+Columns in TITAGARH.NS data: Close, High, Low, Open, Volume
+Columns in IOC.NS data: Close, High, Low, Open, Volume
+Error processing TATASTEEL.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing RKFORGE.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing TITAGARH.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing SUZLON.NS: could not convert string to float: 'MACD_12_26_9'
+Error processing IOC.NS: could not convert string to float: 'MACD_12_26_9'
+Downloaded data for RELIANCE.NS
+Downloaded data for TCS.NS
+Downloaded data for ITI.NS
+Downloaded data for HDFCBANK.NS
+Downloaded data for BHARTIARTL.NS
+Columns in RELIANCE.NS data: Close, High, Low, Open, Volume
+Columns in TCS.NS data: Close, High, Low, Open, Volume
+Columns in BHARTIARTL.NS data: Close, High, Low, Open, Volume
+Columns in ITI.NS data: Close, High, Low, Open, Volume
+Columns in HDFCBANK.NS data: Close, High, Low, Open, Volume
+Error processing RELIANCE.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing HDFCBANK.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing TCS.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing BHARTIARTL.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing ITI.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Downloaded data for SAIL.NS
+Columns in SAIL.NS data: Close, High, Low, Open, Volume
+Downloaded data for SJVN.NS
+Downloaded data for SBIN.NS
+Columns in SJVN.NS data: Close, Close, High, High, Low, Low, Open, Open, Volume, Volume
+Downloaded data for NTPC.NS
+Columns in SBIN.NS data: Close, Close, High, High, Low, Low, Open, Open, Volume, Volume
+Downloaded data for NHPC.NS
+Columns in NHPC.NS data: Close, Close, High, High, Low, Low, Open, Open, Volume, Volume
+Columns in NTPC.NS data: Close, Close, High, High, Low, Low, Open, Open, Volume, Volume
+Error processing SJVN.NS: cannot unpack non-iterable NoneType object
+Error processing SBIN.NS: cannot unpack non-iterable NoneType object
+Error processing NTPC.NS: cannot unpack non-iterable NoneType object
+Error processing NHPC.NS: cannot unpack non-iterable NoneType object
+Downloaded data for BEL.NS
+Downloaded data for POWERGRID.NS
+Columns in BEL.NS data: Close, High, Low, Open, Volume
+Error processing SAIL.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Downloaded data for IDEA.NS
+Columns in POWERGRID.NS data: Close, High, Low, Open, Volume
+Columns in BHEL.NS data: Close, High, Low, Open, Volume
+Columns in IDEA.NS data: Close, High, Low, Open, Volume
+Error processing IDEA.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing BHEL.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing BEL.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing POWERGRID.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Downloaded data for SUZLON.NS
+Columns in SUZLON.NS data: Close, High, Low, Open, Volume
+Columns in IOC.NS data: Close, High, Low, Open, Volume
+Downloaded data for TATASTEEL.NS
+Downloaded data for ASHOKLEY.NS
+Downloaded data for TITAGARH.NS
+Columns in TATASTEEL.NS data: Close, High, Low, Open, Volume
+Columns in TITAGARH.NS data: Close, High, Low, Open, Volume
+Columns in ASHOKLEY.NS data: Close, High, Low, Open, Volume
+Error processing SUZLON.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing IOC.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing TITAGARH.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing TATASTEEL.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Downloaded data for RKFORGE.NS
+Columns in RKFORGE.NS data: Close, High, Low, Open, Volume
+Error processing ASHOKLEY.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
+Error processing RKFORGE.NS: Found array with 0 sample(s) (shape=(0, 10)) while a minimum of 1 is required by StandardScaler.
